@@ -1,0 +1,1 @@
+raph.view_pygraphviz(G, prog='fdp')  # pygraphvizが必要
