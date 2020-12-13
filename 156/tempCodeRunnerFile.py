@@ -1,0 +1,1 @@
+ans = pow(2, n, mod)-1
